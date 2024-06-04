@@ -1,3 +1,13 @@
+/*
+This application is a simple "Domain Finder" application
+built with Node.JS, Axios, and EJS.
+
+It helps to easily find domains which contain the text you provide in the search bar.
+
+
+*
+
+
 import express from 'express';
 import axios from 'axios';
 import bodyParser from 'body-parser';
